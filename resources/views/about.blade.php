@@ -57,7 +57,7 @@
         <li><a href="/about" style="font-size: .8em">About Us</a></li>
         <li><a href="/services" style="font-size: .8em">Services</a></li>
         <li><a href="/pricing" style="font-size: .8em">Pricing</a></li>
-        <li><a href="#" style="font-size: .8em">Contact</a></li>
+        <li><a href="/contact" style="font-size: .8em">Contact</a></li>
       </div>
     </div>
   </div>
